@@ -1,0 +1,13 @@
+item {
+  id: 1
+  name: 'hawking_book'
+}
+
+item {
+  id: 2
+  name: 'RUR'
+}
+item {
+  id: 3
+  name: 'person'
+}
